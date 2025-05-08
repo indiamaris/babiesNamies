@@ -1,0 +1,6 @@
+{
+	"name": "expressApp  - Development",
+	"mail": { "host": "dev-mail-server", "password": "app_password" },
+	"NODE_ENV":"development"
+}
+
